@@ -1,1 +1,1 @@
-Linked List ADT
+Stack ADT implemented using Linked List in TypeScript
